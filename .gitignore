@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# nll
+nll*.json
+.DS_Store
+main2.py
+*.csv
